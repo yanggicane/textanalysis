@@ -1,5 +1,5 @@
 # Welcome to Day 5 of the Summer School!
-
+---
 # Introduction to Text Mining
 ## Introduction to regular expressions
 * What exactly are regular expressions?
@@ -22,3 +22,4 @@ Out[4]: <re.Match object; span=(0, 2), match='hi'>
 ```
 ---
 <!-- page_number: true -->
+e
