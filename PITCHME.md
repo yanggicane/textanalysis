@@ -5,22 +5,10 @@
 #### Introduction to regular expressions
 - What exactly are regular expressions?
 - Strings with a special syntax
-
-``` python3
-
-import re
-
-re.match('abc', 'abcdef')
-Out[2]: <re.Match object; span=(0, 3), match='abc'>
-
-word_regex='\w+'
-
-word_regex='\w+'
-
-re.match(word_regex, 'hi there!')
-Out[4]: <re.Match object; span=(0, 2), match='hi'>
-
-```
+---?gist=yanggicane/d4767e2c951e32a8fc48ce43c858c7d0&lang=python
+@[1](Import Library re)
+@[2](match..)
+@[3-4](match)
 ---
 <!-- page_number: true -->
 e
