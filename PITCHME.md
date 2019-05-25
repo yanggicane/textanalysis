@@ -7,8 +7,7 @@
 - Strings with a special syntax
 
 ---?gist=yanggicane/d4767e2c951e32a8fc48ce43c858c7d0&lang=python&title=Textcode
-@[1](` 
-Out[2]: <re.Match object; span=(0, 3), match='abc'>`)
+@[1](`<re.Match object; span=(0, 3), match='abc'>`)
 @[2](match..)
 @[4-5](match)
 
