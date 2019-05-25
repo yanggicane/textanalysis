@@ -1,9 +1,10 @@
-# Welcome to Day 5 of the Summer School!
+## Welcome to Day 5 of the Summer School!
+#### Introduction to Text Mining
 ---
-# Introduction to Text Mining
-## Introduction to regular expressions
-* What exactly are regular expressions?
-* Strings with a special syntax
+
+#### Introduction to regular expressions
+- What exactly are regular expressions?
+- Strings with a special syntax
 
 ``` python3
 
