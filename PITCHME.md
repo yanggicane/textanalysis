@@ -7,8 +7,8 @@
 - Strings with a special syntax
 - Allow us to match patterns in other strings
 - Applications of regular expressions:
--- Find all web links in a document
--- Parse email addresses, remove/replace unwanted characters
+  - Find all web links in a document
+  - Parse email addresses, remove/replace unwanted characters
 
 ---?gist=yanggicane/d4767e2c951e32a8fc48ce43c858c7d0&lang=python&title=Textcode
 @[1]()
