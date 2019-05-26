@@ -16,7 +16,13 @@
 @[6](match)
 @[8-9](match)
 ---
-#### Common Regex patterns
+@title[Common Regex patterns]
+
+
+@snap[north]
+Table Data Fragments
+@snapend
+
 <table>
   <tr>
     <th>pattern</th>
@@ -29,7 +35,7 @@
      <td>'Magic'</td>
   </tr>
   <tr class="fragment">
-    <td>Eve</td>
+    <td></td>
     <td>94</td>
   </tr>
   <tr class="fragment">
