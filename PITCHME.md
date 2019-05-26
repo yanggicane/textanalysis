@@ -19,12 +19,14 @@
 #### Common Regex patterns
 <table>
   <tr>
-    <th>Name</th>
-    <th>Age</th>
+    <th>pattern</th>
+    <th>matches</th>
+     <th>example</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>25</td>
+    <td>`\w+`</td>
+    <td>word</td>
+     <td>'Magic'</td>
   </tr>
   <tr class="fragment">
     <td>Eve</td>
