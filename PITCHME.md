@@ -16,7 +16,6 @@
 @[6](match)
 @[8-9](match)
 ---
-####Common Regex patterns
 @snap[north]
 Common Regex patterns
 @snapend
