@@ -1,4 +1,3 @@
-layout : top-left
 ## Welcome to Day 5 of the Summer School!
 #### Introduction to Text Mining
 ---
