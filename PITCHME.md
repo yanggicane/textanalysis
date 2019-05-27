@@ -16,7 +16,7 @@
 @[6](match)
 @[8-9](match)
 ---
-@title[Common Regex patterns]
+####Common Regex patterns
 
 <table>
   <tr>
