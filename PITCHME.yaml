@@ -2,8 +2,7 @@
 layout : top-left
 
 # Look-and-Feel
-logo : assets/img/mcm-maroon_png.png?size=300% auto
-logo-position : top-right
+logo : assets/img/mcm-maroon_png.png?size=500% auto
 theme : moon
 #theme-override : assets/css/PITCHME.css
 #highlight : ir-black
