@@ -18,11 +18,6 @@
 ---
 @title[Common Regex patterns]
 
-
-@snap[north]
-Table Data Fragments
-@snapend
-
 <table>
   <tr>
     <th>pattern</th>
@@ -35,13 +30,34 @@ Table Data Fragments
      <td>'Magic'</td>
   </tr>
   <tr class="fragment">
-    <td></td>
-    <td>94</td>
+    <td>`\d`</td>
+    <td>digit</td>
+     <td>9</td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>43</td>
+    <td>`\s`</td>
+    <td>space</td>
+     <td>' '</td>
+   </tr>
+  <tr class="fragment">
+    <td>`.*`</td>
+    <td>wildcard</td>
+     <td>'username74'</td>
+    </tr>
+  <tr class="fragment">
+    <td>`+` or `*`</td>
+    <td>greedy match</td>
+     <td>'bbbbb'</td> 
   </tr>
+  <tr class="fragment">
+    <td>`\S`</td>
+    <td>**not** space</td>
+     <td>'no_spaces'</td> 
+  </tr>
+  <tr class="fragment">
+    <td>`[a-z]`</td>
+    <td>lowercase group</td>
+     <td>'abcdefg'</td>     
 </table>
 
 
