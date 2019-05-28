@@ -70,4 +70,4 @@ Common Regex patterns
 - The output can be an iterator, string, or match object
 
 ---
----?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode
+@size[1.5em](?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode)
