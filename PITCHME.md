@@ -69,6 +69,9 @@ Common Regex patterns
 - Pattern first, and the string second
 - The output can be an iterator, string, or match object
 
-@snap[north-west span-25]
 ---?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode
-@snapend
+@[1](The sample twitter write into Python as a string.)
+@[3-9](We split the sample twitter on each sentence ending.)
+@[11-13](Find and print all capitalized words in the sample twitter.)
+@[15-17](Split the sample twitter on spaces.)
+@[19-21](Find all digits in the sample twitter.)
