@@ -1,1 +1,5 @@
+.reveal pre {
+  box-shadow : none;
+}
+
 .hljs { white-space: pre-wrap; }
