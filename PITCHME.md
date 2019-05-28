@@ -75,3 +75,17 @@ Common Regex patterns
 @[11-13](Find and print all capitalized words in the sample twitter.)
 @[15-17](Split the sample twitter on spaces.)
 @[19-21](Find all digits in the sample twitter.)
+
+---
+#### Word toenization with NLTK
+###### What is tokenization?
+- Turning a string or a document into *tokens* (smaller pieces).
+- One common steop in preparing text for anlaysis. 
+- There are many different theories and rules.
+- You can create your own rules using regex.
+- Some common practice:
+  - Breaking out words or sentences
+  - Separating punctuation
+  - Seperating all hashtags in a tweet
+  
+
