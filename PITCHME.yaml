@@ -6,7 +6,7 @@ logo : assets/img/mcm-maroon_png.png?size=500% auto
 theme : moon
 theme-override : PITCHME.css
 code-line-numbers : true
-highlight : mono-blue
+highlight : moon
 
 # Behavior
 transition : none
