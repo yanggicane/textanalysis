@@ -88,6 +88,7 @@ Common Regex patterns
   - Separating punctuation
   - Seperating all hashtags in a tweet
 - nltk (natual language toolkit) library is commonly used for tokenization. 
+
 ```python
 from nltk.tokenize import word_tokenize
 
