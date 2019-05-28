@@ -95,3 +95,15 @@ from nltk.tokenize import word_tokenize
 word_tokenize("Hello world!")
 Out[49]: ['Hello', 'world', '!']
 ```
+#### Why tokenize?
+- Matching common words
+- Removing unwanted tokens
+#### Cleaning and preprocessing text
+- Common steps for preprocessing text includes:
+  - Makes all text lowercase
+  - Romoves punctuation like periods and question marks
+  - Remove numbers
+  - Removes tabs and extra spaces
+  - Removes specific words(stop words or/and words defined by user)
+  
+
