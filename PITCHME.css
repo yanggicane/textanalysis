@@ -1,4 +1,11 @@
 
-.hljs { white-space: pre-wrap; }
+.hljs { white-space: pre-wrap; font-size: 10px; }
 
-
+/*****
+.reveal pre code {
+#  display: block;
+#  padding: 5px;
+#  overflow: auto;
+#  max-height: 400px;
+#  word-wrap: normal; }
+*****/
