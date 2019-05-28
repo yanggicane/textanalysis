@@ -95,6 +95,7 @@ from nltk.tokenize import word_tokenize
 word_tokenize("Hello world!")
 Out[49]: ['Hello', 'world', '!']
 ```
+---
 #### Why tokenize?
 - Matching common words
 - Removing unwanted tokens
