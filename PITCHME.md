@@ -68,6 +68,5 @@ Common Regex patterns
 - match: match an entire string or substring based on a pattern
 - Pattern first, and the string second
 - The output can be an iterator, string, or match object
----
 
-@size[1.5em](---?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode)
+---?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode
