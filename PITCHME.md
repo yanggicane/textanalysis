@@ -111,7 +111,14 @@ Common Regex patterns
 @[1-4](Import data from .csv.)
 @[6](Removing missing synopsis.)
 @[8-14](Return True/False regarding if the text is English. )
-@[16-18](List non-english movie synopsis.)
+@[16-18](List non-English movie synopsis.)
 @[20](What if there is non ASCII characters?)
 @[22-25](Convert accent string into ASCII characters only.)
 
+---?gist=yanggicane/6e8eca98efc75b2ab6902f573dbe97f4
+@[1-4](Import data from .csv.)
+@[6](Removing missing synopsis.)
+@[8-14](Return True/False regarding if the text is English. )
+@[16-18](List non-English movie synopsis.)
+@[20](What if there is non ASCII characters?)
+@[22-25](Convert accent string into ASCII characters only.)
