@@ -88,12 +88,22 @@ Common Regex patterns
   - Removes specific words(stop words or/and words defined by user)
   - Word Stemming
 ---
-####Example: Movie Information from Rotten Tomatoes
+#### Example: Movie Information from Rotten Tomatoes
+- This dataset consists of general information about 1560 movies on the Rotten Tomatoes site. 
+- There are 12 columns: id, synopsis, rating, genre, director, writer, theater_data, dvd_date, currency, box_office, runtime, and studio.
+- We are interested in analyzing the movie synopsis. 
+- This dataset is avaiable at Kaggle.com.
 
+---
+#### Step 1: Identifies Language
+###### What is character encoding?
+- Words and sentences in text are created from characters.
+- The characters are stored in the computer as one or more bytes.
+- ASCII, abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.
+- The set of 128 (0-127) characters of ASCII contains all you need to write in English language.
+- Unicode has a much wider array of characters and ASCII is incorporated into Unicode character set as the first 128 symbols.
+- We can use the character encoding for identifying English text, and/or find non-ASCII characters from text.
 
-
-
-stop words, such as a, about, at, as, does, from, he, she... 
 
   
 
