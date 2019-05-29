@@ -104,6 +104,7 @@ Common Regex patterns
 - Unicode has a much wider array of characters and ASCII is incorporated into Unicode character set as the first 128 symbols.
 - We can use the character encoding for identifying English text, and/or find non-ASCII characters from text.
 
+---
 
   
 
