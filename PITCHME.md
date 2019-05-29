@@ -94,7 +94,7 @@ Common Regex patterns
 - We are interested in analyzing the movie synopsis. 
 - This dataset is avaiable at Kaggle.com.
 
-![](assets/img/movie_data.png)
+![span-120](assets/img/movie_data.png)
 
 
 ---
@@ -122,3 +122,16 @@ Common Regex patterns
 @[14-16](Load standard punctuations.)
 @[18-22](Remove punctuations.)
 
+--- 
+#### Tokenization
+- The next step is to turn a tring or document into tokens (smaller chunks).
+- Here, we will break out by words.
+- It will help us to remove unwanted tokens (words).
+
+#### Remove Stop Words
+- In NLP, a stop word is a commonly used word (such as "the", "a", "in") which have very little meaning.
+
+#### Stemming
+- The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form. For example:
+  - am, are, is &rarr be
+  - car, cars, car's cars' &rarr car
