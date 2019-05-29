@@ -77,34 +77,23 @@ Common Regex patterns
 @[19-21](Find all digits in the sample twitter.)
 
 ---
-#### Word toenization with NLTK
-###### What is tokenization?
-- Turning a string or a document into *tokens* (smaller pieces).
-- One common steop in preparing text for anlaysis. 
-- There are many different theories and rules.
-- You can create your own rules using regex.
-- Some common practice:
-  - Breaking out words or sentences
-  - Separating punctuation
-  - Seperating all hashtags in a tweet
-- nltk (natual language toolkit) library is commonly used for tokenization. 
-
-```python
-from nltk.tokenize import word_tokenize
-
-word_tokenize("Hello world!")
-Out[49]: ['Hello', 'world', '!']
-```
----
-#### Why tokenize?
-- Matching common words
-- Removing unwanted tokens
 #### Cleaning and preprocessing text
 - Common steps for preprocessing text includes:
+  - Identifies the language
   - Makes all text lowercase
+  - Removes number
   - Romoves punctuation like periods and question marks
-  - Remove numbers
-  - Removes tabs and extra spaces
+  -
+  - Tokenize
   - Removes specific words(stop words or/and words defined by user)
+  - Word Stemming
+---
+####Example: Movie Information from Rotten Tomatoes
+
+
+
+
+stop words, such as a, about, at, as, does, from, he, she... 
+
   
 
