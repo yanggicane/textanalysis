@@ -133,5 +133,5 @@ Common Regex patterns
 
 #### Stemming
 - The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form. For example:
-  - am, are, is &rarr be
+  - am, are, is $\rightarrow$ be
   - car, cars, car's cars' &rarr car
