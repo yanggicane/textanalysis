@@ -108,5 +108,10 @@ Common Regex patterns
 - We can use the character encoding for identifying English text, and/or find non-ASCII characters from text.
 
 ---?gist=yanggicane/16660e95e110b6afe0e449edbdf02df9&lang=python&title=Textcode
-  
+@[1-4](Import data from .csv.)
+@[6](Removing missing synopsis.)
+@[8-14](Return True/False regarding if the text is English. )
+@[16-18](List non-english movie synopsis.)
+@[20](What if there is non ASCII characters?)
+@[22-25](Convert accent string into ASCII characters only.)
 
