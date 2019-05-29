@@ -93,7 +93,7 @@ Common Regex patterns
 - There are 12 columns: id, synopsis, rating, genre, director, writer, theater_data, dvd_date, currency, box_office, runtime, and studio.
 - We are interested in analyzing the movie synopsis. 
 - This dataset is avaiable at Kaggle.com.
-@snap[midpoint span-40]
+@snap[south-east span-100]
 ![](assets/img/movie_data.png)
 @snapend
 
