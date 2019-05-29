@@ -128,15 +128,16 @@ Common Regex patterns
 - The next step is to turn a tring or document into tokens (smaller chunks).
 - Here, we will break out by words.
 - It will help us to remove unwanted tokens (words).
-@snapped
+@snapend
 
 @snap[west]
 #### Remove Stop Words
 - In NLP, a stop word is a commonly used word (such as "the", "a", "in") which have very little meaning.
-@snapped
+@snapend
+
 @snap[south-west]
 #### Stemming
 - The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form. For example:
   - am, are, is $\rightarrow$ be
   - car, cars, car's cars' $\rightarrow$ car
-  @snapped
+  @snapend
