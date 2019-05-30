@@ -16,7 +16,7 @@
 @[6](match)
 @[8-9](match)
 ---
-@snap[west]
+@snap[north-west]
 Common Regex patterns
 @snapend
 <table>
