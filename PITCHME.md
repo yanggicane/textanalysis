@@ -1,7 +1,29 @@
 ## Welcome to Day 5 of the Summer School!
-#### Introduction to Text Mining
+#### 
 ---
+#### What is text mining?
+- Text mining (also called text analytics) is a method for finding patterns from a large body text. 
+- It is a method for gathering structured information from unstructured data. 
 
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+
+---
+#### Introduction: Language processing and python
+- What can we do with the millions of words of text?
+- What can we achieve by combining simple programming techniques with large quantities of text?
+- How can we automatically extract key words and phrases that sum up the style and content of a text?
+- What tools and techniques does the Python programming language provide for such work?
+- What are some of the challenges of natual language processing (NLP)?
+---
+#### Getting started with NLTK
+
+---
 #### Introduction to regular expressions
 - What exactly are regular expressions?
 - Strings with a special syntax
