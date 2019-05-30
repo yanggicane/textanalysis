@@ -128,12 +128,11 @@ Common Regex patterns
 - The next step is to turn a tring or document into tokens (smaller chunks).
 - Here, we will break out by words.
 - It will help us to remove unwanted tokens (words).
-
-
+<br/><br/>
 
 #### Remove Stop Words
 - In NLP, a stop word is a commonly used word (such as "the", "a", "in") which have very little meaning.
-
+<br/><br/>
 
 
 #### Stemming
