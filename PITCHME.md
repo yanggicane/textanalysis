@@ -188,4 +188,15 @@ plt.show()
 ```
 ![fragment](assets/img/hist_eg.png)
 
-
+--- 
+#### Charting word frequency
+```Python
+wordsum=dtm_stem.sum(axis=0)
+wordsum=wordsum.sort_values(ascending=False)
+plt.figure(figsize=(15,10))
+plt.bar(wordsum.index.values[0:25], wordsum[0:25])
+plt.xlabel("Word")
+plt.ylabel("Counts")
+plt.show()    
+```
+![fragment](assets/img/wordfreq.png)
