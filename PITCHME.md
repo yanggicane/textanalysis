@@ -29,9 +29,9 @@
 
 ![](assets/img/intro_chart.png)
 
----
+------?image=assets/img/trans_api.png&size=50% 100%
 #### A Sneak Peak of Language Detection/Translation API
-![](assets/img/trans_api.png)
+
 
 ---
 #### Introduction to regular expressions
