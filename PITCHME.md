@@ -3,7 +3,10 @@
 @snap[center span-45]
 ![](assets/img/bagofwords.png)
 @snapend
- 
+@snap[east span-45]
+![](assets/img/wordcloud.pdf)
+@snapend
+
 ---
 #### What is text mining?
 - Text mining (also called text analytics) is a method for finding patterns from a large body text. 
