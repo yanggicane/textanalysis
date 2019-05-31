@@ -1,5 +1,5 @@
 ## Welcome to Day 5 of the Summer School!
-@snap[north-west span-45]
+@snap[center span-45]
 ![](assets/img/bagofwords.png)
 @snapend
  
