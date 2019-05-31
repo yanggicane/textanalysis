@@ -33,13 +33,10 @@
 #### A Sneak Peak of Language Detection/Translation API
 ---?image=assets/img/entities.png&size=60% 80%
 #### A Sneak Peak of Natual Language API
----?image=assets/img/sentiment.png&size=60% 80%
+---?image=assets/img/sentiment.png&size=50% 80%
 #### A Sneak Peak of Natual Language API
-
-@snap[southwest span -30]
-![](assets/img/catgories.png)
-@snapend
-
+---?image=assets/img/catgories.png
+#### A Sneak Peak of Natual Language API
 ---
 #### Introduction to regular expressions in Python
 - What exactly are regular expressions?
