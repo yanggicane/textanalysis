@@ -281,3 +281,31 @@ plt.show()
 @[109-131]()
 @[133-155]()
 @[157-179]()
+
+---
+#### Introduction to API
+
+- API stands for Application Programming Interface.
+- It allow applications to communicate with one another.
+- There are a lot of publicly available web-based API that returns data, likely JSON, or XML.
+- It is the code that governs the access point(s) for the server.
+- What can we do with web based APIs?
+  - We can send an API a request detailing the information we want.
+  - APIs allow us to alter data on other applications, too. 
+ 
+ #### Introduction to JSON
+ - JSON stands for JavaScript Object Notation and is basically a way of presenting data. 
+ ```JSON
+ “restaurant”: {
+ “name”: “Fish Witch”,
+ “address”: “214 NE Broadway”,
+ “zipcode”: “97232”,
+ “phone”: “503–000–0000”,
+ “website”: “http://fishwitch.com",
+ “email”: “hellofishy@fishwitch.com”
+}
+ ```
+ 
+ 
+ 
+
