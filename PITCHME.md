@@ -113,6 +113,10 @@ Common Regex patterns
 @[19-21](Find all digits in the sample twitter.)
 
 ---
+#### The process flow for text data modelling 
+![](assets/img/textworkflow.png)
+
+---
 #### Cleaning and preprocessing text
 - Common steps for preprocessing text includes:
   - Identifies the language
