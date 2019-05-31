@@ -17,9 +17,9 @@
 @title[Deployment Architecture]
 
 
-#### SAMBA Deployment Architecture
+#### High-Level Classification of Text Analytics and Tools Avaiable
 
-![SAMBA Deployment](assets/img/intro_chart.png)
+![](assets/img/intro_chart.png)
 
 ---
 #### Introduction: Language processing and python
