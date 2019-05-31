@@ -14,12 +14,11 @@
 @ulend
 
 ---
-@title[Deployment Architecture]
-
-
 #### High-Level Classification of Text Analytics and Tools Avaiable
 
 ![](assets/img/intro_chart.png)
+
+---
 
 ---
 #### Introduction: Language processing and python
