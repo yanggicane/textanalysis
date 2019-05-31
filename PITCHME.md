@@ -161,3 +161,7 @@ Common Regex patterns
 @[85-86]()
 @[88-116](Story$\rightarrow$ stori.)
 
+---
+
+---?gist=yanggicane/e6e12c59e3d5970ebabdf4af358a6394&lang=python&title=NOW LET'S APPLY THE PRE-PROCESSING STEPS TO THE ENTIRE DATASET
+
