@@ -2,7 +2,7 @@
 layout : top-left
 
 # Look-and-Feel
-logo : assets/img/macdatalogo?size=500% auto
+logo : assets/img/macdatalogo.jpg?size=500% auto
 theme : white
 theme-override : PITCHME.css
 code-line-numbers : true
