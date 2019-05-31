@@ -202,3 +202,28 @@ plt.show()
 ---
 #### Charting word frequency
 ![fragment](assets/img/wordfreq.png)
+
+---
+### Generating WordClouds in Python
+- Many times you might have seen a cloud filled with lots of words in different sizes.
+- The sizes in a wordcloud represent the frequency or the importance of each word.
+- Let's see a simple example for generate wordcloud in python. 
+
+```Python 
+from wordcloud import WordCloud
+sample=movie_synopsis_nomissing[5]
+wordcloud = WordCloud().generate(sample)
+
+# Display the generated image:
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis("off")
+plt.show()
+```
+---
+### Generating WordClouds in Python
+![fragment](assets/img/wordcloud1.png)
+
+
+```
+
+
