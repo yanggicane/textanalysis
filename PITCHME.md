@@ -161,7 +161,31 @@ Common Regex patterns
 @[85-86]()
 @[88-116](Story$\rightarrow$ stori.)
 
----
-
 ---?gist=yanggicane/e6e12c59e3d5970ebabdf4af358a6394&lang=python&title=NOW LET'S APPLY THE PRE-PROCESSING STEPS TO THE ENTIRE DATASET
+@[1-10]()
+@[13-15](Convert a collection of text documents to a matrix of token counts.)
+@[16-18](Return a dtm with 1498 rows, and 15863 columns (words).)
+@[20-26](Compare to the result without stemming.)
+
+---
+#### Charting word frequency
+- The matplotlib is used by many open source Python projects.
+- Straightforward functionality with lots of options.
+  @ul
+  - Histograms
+  - Bar charts
+  - Line charts
+  - Scatter plots
+  - and also advanced functionality like 3D graphs and animations!
+  @ulend
+
+---
+#### PLOTTING A HISTOGRAM WITH MATPLOTLIB
+```Python
+from matplotlib import pyplot as plt
+plt.hist([1,5,5,7,7,7,9])
+plt.show()
+```
+![](assets/img/hist_eg.jpg)
+
 
