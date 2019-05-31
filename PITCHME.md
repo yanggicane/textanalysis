@@ -14,6 +14,14 @@
 @ulend
 
 ---
+@title[Deployment Architecture]
+
+
+#### SAMBA Deployment Architecture
+
+![SAMBA Deployment](assets/img/intro_chart.png)
+
+---
 #### Introduction: Language processing and python
 - What can we do with the millions of words of text?
 - What can we achieve by combining simple programming techniques with large quantities of text?
