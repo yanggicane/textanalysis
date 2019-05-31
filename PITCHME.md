@@ -1,9 +1,9 @@
 ## MacData Summer School Day 5: Introduction to Text Mining
 #### Yang Tang, PhD 
-@snap[center span-45]
+@snap[west span-50]
 ![](assets/img/bagofwords.png)
 @snapend
-@snap[east span-60]
+@snap[east span-50]
 ![](assets/img/wordcloud.pdf)
 @snapend
 
