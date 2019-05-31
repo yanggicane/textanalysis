@@ -344,3 +344,9 @@ plt.show()
 @[49]()
 @[51-52]()
 
+---
+#### Conclusion
+
+- We introduced a few different ways to processing/analyzing text data.
+- We introduced a few Python packages for these tasks as well as Google API. 
+- Now it's your turn!
