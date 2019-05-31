@@ -1,4 +1,5 @@
-## Welcome to Day 5 of the Summer School!
+## MacData Summer School Day 5: Introduction to Text Mining
+#### Yang Tang, PhD 
 @snap[center span-45]
 ![](assets/img/bagofwords.png)
 @snapend
