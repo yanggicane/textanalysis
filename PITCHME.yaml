@@ -1,0 +1,17 @@
+# Layout
+layout : top-left
+
+# Look-and-Feel
+logo : assets/img/macdatalogo.jpg 
+theme : white
+theme-override : PITCHME.css
+code-line-numbers : true
+highlight : solarized-dark
+
+# Behavior
+transition : none
+published : true
+
+# Plugins
+charts : true
+mathjax : TeX-AMS_HTML-full

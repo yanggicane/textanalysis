@@ -1,0 +1,17 @@
+
+.hljs { white-space: pre-wrap;  }
+
+
+.reveal pre code {
+  max-height: 480px;
+  font-size: 15px; }
+
+.reveal {
+  font-size: 30px;
+   }
+
+.reveal section img {
+  margin: 15px 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: none;
+  box-shadow: none; }
