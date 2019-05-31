@@ -126,7 +126,7 @@ Common Regex patterns
 ![span-120](assets/img/movie_data.png)
 
 ---?gist=yanggicane/6e8eca98efc75b2ab6902f573dbe97f4
-@[1-3](Let's import the movie information from the csv.)
+@[1-3](Let's load the movie information from the csv.)
 @[5](We will only use the movie discription here.)
 @[7](We then delete missing synopsis.)
 @[9-12](Let's use one of the movie synopsis as a example for pre-processing.)
@@ -153,5 +153,5 @@ Common Regex patterns
   - am, are, is $\rightarrow$ be
   - car, cars, car's cars' $\rightarrow$ car
 
----
+---?gist=yanggicane/f71fd0b31e91ce624deb44611719b9f1&lang=python&title=Textcode
 
