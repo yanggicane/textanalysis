@@ -188,7 +188,7 @@ plt.show()
 ```
 ![fragment](assets/img/hist_eg.png)
 
----?image=assets/img/wordfreq.png&size=60% 40% 
+---
 #### Charting word frequency
 ```Python
 wordsum=dtm_stem.sum(axis=0)
@@ -199,4 +199,5 @@ plt.xlabel("Word")
 plt.ylabel("Counts")
 plt.show()    
 ```
-
+@snap[south-west span-90]
+![fragment](assets/img/wordfreq.png)
