@@ -37,7 +37,7 @@
 #### A Sneak Peak of Natual Language API
 
 @snap[south]
-![](assets/img/categories.png)
+![](assets/img/catgories.png)
 @snapend
 
 ---
