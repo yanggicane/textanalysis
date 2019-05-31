@@ -308,6 +308,21 @@ plt.show()
  ```
 ---?image=assets/img/google_api.png
 
+---
+#### The Natural Language API 
+
+- The Natural Language API has five functions:
+  @ul
+  - Analyzing Sentiment
+  - Analyzing Entities
+  - Analyzing Entity Sentiment
+  - Analyzing Syntax 
+  - Classifying Content
+
+- We have seen entity analysis in the beginning of the session using their web interface. 
+- Now, I will show you how to call this API from Python. 
+  @ulend
+  
 ---?gist=yanggicane/e49054544c9ab2c1d430c772f2f71f0d&lang=python&title=LDA IN PYTHON
 @[1-4]()
 @[6-7]()
