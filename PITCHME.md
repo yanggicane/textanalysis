@@ -292,9 +292,9 @@ plt.show()
 - What can we do with web based APIs?
   - We can send an API a request detailing the information we want.
   - APIs allow us to alter data on other applications, too. 
+  
 ---
-
- #### Introduction to JSON
+#### Introduction to JSON
  - JSON stands for JavaScript Object Notation and is basically a way of presenting data. 
  ```JSON
  “restaurant”: {
