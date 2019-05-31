@@ -117,17 +117,6 @@ Common Regex patterns
 ![](assets/img/textworkflow.png)
 
 ---
-#### Cleaning and preprocessing text
-- Common steps for preprocessing text includes:
-  - Identifies the language
-  - Makes all text lowercase
-  - Removes number
-  - Romoves punctuation like periods and question marks
-  -
-  - Tokenize
-  - Removes specific words(stop words or/and words defined by user)
-  - Word Stemming
----
 #### Example: Movie Information from Rotten Tomatoes
 - This dataset consists of general information about 1560 movies on the Rotten Tomatoes site. 
 - There are 12 columns: id, synopsis, rating, genre, director, writer, theater_data, dvd_date, currency, box_office, runtime, and studio.
@@ -135,25 +124,6 @@ Common Regex patterns
 - This dataset is avaiable at Kaggle.com.
 
 ![span-120](assets/img/movie_data.png)
-
-
----
-#### Step 1: Identifies Language
-###### What is character encoding?
-- Words and sentences in text are created from characters.
-- The characters are stored in the computer as one or more bytes.
-- ASCII, abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.
-- The set of 128 (0-127) characters of ASCII contains all you need to write in English language.
-- Unicode has a much wider array of characters and ASCII is incorporated into Unicode character set as the first 128 symbols.
-- We can use the character encoding for identifying English text, and/or find non-ASCII characters from text.
-
----?gist=yanggicane/16660e95e110b6afe0e449edbdf02df9&lang=python&title=Textcode
-@[1-4](Import data from .csv.)
-@[6](Removing missing synopsis.)
-@[8-14](Return True/False regarding if the text is English. )
-@[16-18](List non-English movie synopsis.)
-@[20](What if there is non ASCII characters?)
-@[22-25](Convert accent string into ASCII characters only.)
 
 ---?gist=yanggicane/6e8eca98efc75b2ab6902f573dbe97f4
 @[1-4](Let's use one of the movie synopsis as a example for pre-processing.)
@@ -179,4 +149,6 @@ Common Regex patterns
 - The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form. For example:
   - am, are, is $\rightarrow$ be
   - car, cars, car's cars' $\rightarrow$ car
+
+---
 
