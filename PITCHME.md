@@ -235,4 +235,17 @@ plt.show()
 ### Generating WordClouds in Python
 ![fragment](assets/img/wordcloud2.png)
 
+---
+### Generating a WordClouds for the Movie DataSet
+```Python
+joint_synopsis=' '.join(map(str,final_synopsis))
+movie_wordcloud=WordCloud(max_font_size=50, max_words=150,background_color="white").generate(joint_synopsis)
 
+plt.figure(figsize=(15,10))
+plt.imshow(movie_wordcloud, interpolation="bilinear")
+plt.axis("off")
+plt.show()
+
+```
+---
+![fragment](assets/img/moviewordcloud.png)
