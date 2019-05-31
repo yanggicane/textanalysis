@@ -3,7 +3,7 @@
 @snap[center span-45]
 ![](assets/img/bagofwords.png)
 @snapend
-@snap[east span-45]
+@snap[east span-60]
 ![](assets/img/wordcloud.pdf)
 @snapend
 
