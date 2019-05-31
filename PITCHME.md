@@ -29,12 +29,15 @@
 
 ![](assets/img/intro_chart.png)
 
-------?image=assets/img/trans_api.png&size=80% 70%
+---?image=assets/img/trans_api.png&size=80% 70%
 #### A Sneak Peak of Language Detection/Translation API
 
 
 ---
-#### Introduction to regular expressions
+#### A Sneak Peak of Natual Language API
+
+---
+#### Introduction to regular expressions in Python
 - What exactly are regular expressions?
 - Strings with a special syntax
 - Allow us to match patterns in other strings
