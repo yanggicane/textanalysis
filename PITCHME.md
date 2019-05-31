@@ -33,7 +33,8 @@
 #### A Sneak Peak of Language Detection/Translation API
 ---?image=assets/img/entities.png&size=60% 80%
 #### A Sneak Peak of Natual Language API
-
+---?image=assets/img/entities.png&size=60% 80%
+#### A Sneak Peak of Natual Language API
 ---
 #### Introduction to regular expressions in Python
 - What exactly are regular expressions?
