@@ -1,4 +1,8 @@
 ## Welcome to Day 5 of the Summer School!
+@snap[north-west]
+![](assets/img/bagofwords.png)
+@snapend
+
 #### 
 ---
 #### What is text mining?
