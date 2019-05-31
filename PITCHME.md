@@ -27,9 +27,10 @@
 ---
 #### High-Level Classification of Text Analytics and Tools Avaiable
 
-![](assets/img/intro_chart.png)
+![](assets/img/trans_api.png)
 
 ---
+#### A Sneak Peak of Language Detection/Translation API
 
 
 ---
