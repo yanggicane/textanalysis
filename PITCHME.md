@@ -36,7 +36,7 @@
 ---?image=assets/img/sentiment.png&size=60% 80%
 #### A Sneak Peak of Natual Language API
 
-@snap[south]
+@snap[southwest span -30]
 ![](assets/img/catgories.png)
 @snapend
 
