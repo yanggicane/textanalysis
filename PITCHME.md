@@ -15,7 +15,7 @@
 - It is a method for gathering structured information from unstructured data. 
 - Typical text mining tasks includes
   - Text categorization
-  - Entity extraction,
+  - Entity extraction
   - Sentiment analysis
   - Topic identification
   - Document summarization
@@ -33,7 +33,7 @@
 #### A Sneak Peak of Language Detection/Translation API
 ---?image=assets/img/entities.png&size=60% 80%
 #### A Sneak Peak of Natual Language API
----?image=assets/img/sentiment.png&size=50% 80%
+---?image=assets/img/sentiment.png&size=40% 80%
 #### A Sneak Peak of Natual Language API
 ---?image=assets/img/catgories.png&size=80% 30%
 #### A Sneak Peak of Natual Language API
@@ -46,11 +46,11 @@
   - Find all web links in a document
   - Parse email addresses, remove/replace unwanted characters
 
----?gist=yanggicane/d4767e2c951e32a8fc48ce43c858c7d0&lang=python&title=Textcode
-@[1]()
-@[3-4](match..)
-@[6](match)
-@[8-9](match)
+---?gist=yanggicane/d4767e2c951e32a8fc48ce43c858c7d0&lang=python&title=SAMPLE REGEX MATCH FUNCTION
+@[1](Import regex library)
+@[3-4](Match abc from the string abcdef)
+@[6](Match 1 or more word character)
+@[8-9](hi got matched)
 ---
 @snap[north-west]
 Common Regex patterns
@@ -105,7 +105,7 @@ Common Regex patterns
 - Pattern first, and the string second
 - The output can be an iterator, string, or match object
 
----?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=Textcode
+---?gist=yanggicane/c7bf46b64f37b90933858f48ee593701&lang=python&title=LET'S PRACTICE REGEX!
 @[1](The sample twitter write into Python as a string.)
 @[3-9](We split the sample twitter on each sentence ending.)
 @[11-13](Find and print all capitalized words in the sample twitter.)
@@ -164,7 +164,7 @@ Common Regex patterns
 ---?gist=yanggicane/e6e12c59e3d5970ebabdf4af358a6394&lang=python&title=NOW LET'S APPLY THE PRE-PROCESSING STEPS TO THE ENTIRE DATASET
 @[1-10]()
 @[13-15](Convert a collection of text documents to a matrix of token counts.)
-@[16-18](Return a dtm with 1498 rows, and 15863 columns (words).)
+@[16-18](Return a dtm with 1498 rows, and 15863 columns.)
 @[20-26](Compare to the result without stemming.)
 
 ---
