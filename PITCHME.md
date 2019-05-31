@@ -224,6 +224,15 @@ plt.show()
 ![fragment](assets/img/wordcloud1.png)
 
 
+```Python
+wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(sample)
+plt.figure()
+plt.imshow(wordcloud, interpolation="bilinear")
+plt.axis("off")
+plt.show()
 ```
+---
+### Generating WordClouds in Python
+![fragment](assets/img/wordcloud2.png)
 
 
