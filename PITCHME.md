@@ -27,11 +27,11 @@
 ---
 #### High-Level Classification of Text Analytics and Tools Avaiable
 
-![](assets/img/trans_api.png)
+![](assets/img/intro_chart.png)
 
 ---
 #### A Sneak Peak of Language Detection/Translation API
-
+![](assets/img/trans_api.png)
 
 ---
 #### Introduction to regular expressions
