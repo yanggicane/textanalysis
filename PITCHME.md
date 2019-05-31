@@ -306,7 +306,7 @@ plt.show()
  “email”: “hellofishy@fishwitch.com”
 }
  ```
----?image=assets/img/google_api.png&size=80% 70%
+---?image=assets/img/google_api.png
 
  
  
