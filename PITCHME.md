@@ -204,7 +204,7 @@ plt.show()
 ![fragment](assets/img/wordfreq.png)
 
 ---
-### Generating WordClouds in Python
+#### Generating WordClouds in Python
 - Many times you might have seen a cloud filled with lots of words in different sizes.
 - The sizes in a wordcloud represent the frequency or the importance of each word.
 - Let's see a simple example for generate wordcloud in python. 
@@ -220,7 +220,7 @@ plt.axis("off")
 plt.show()
 ```
 ---
-### Generating WordClouds in Python
+#### Generating WordClouds in Python
 ![fragment](assets/img/wordcloud1.png)
 
 
@@ -232,11 +232,11 @@ plt.axis("off")
 plt.show()
 ```
 ---
-### Generating WordClouds in Python
+#### Generating WordClouds in Python
 ![fragment](assets/img/wordcloud2.png)
 
 ---
-### Generating a WordClouds for the Movie DataSet
+#### Generating a WordClouds for the Movie DataSet
 ```Python
 joint_synopsis=' '.join(map(str,final_synopsis))
 movie_wordcloud=WordCloud(max_font_size=50, max_words=150,background_color="white").generate(joint_synopsis)
@@ -249,3 +249,23 @@ plt.show()
 ```
 ---
 ![fragment](assets/img/moviewordcloud.png)
+
+
+
+--- 
+#### Topic Models 
+- A topic model takes a collection of unlabelled documents and attempts to find the structure or topics in the collection. 
+- It is a great way to automatically explore and structure a large set of documents. 
+- As documents on similar topics tend to use a similar sub-vocabulary, the resulting clusters of documents can be interpreted as discussing different 'topics'.
+- Latent Dirichlet Allocation (LDA) is an example of a probabilistic topic model. 
+- LDA starts from a bag-of-words (dtm) description to represent the different documents.
+---
+#### LDA model
+- An LDA model is defined by two parameters:
+  - $\alpha$ A prior estimate on topic probability (average frequency that each topic within a givein document occurs)
+  - $\beta$ A collection of $k$ topics where each topic is givein a probability distribution over the vocabulary used in a document corpus.
+- For each word in a document:
+  - Choose a topic $z\sim$Multinomial ($\theta$)
+  - Choose the corresponding topic-word distribution $\beta_z$
+  - Draw a word $w\sim$ Multinomial ($\beta_z$)
+  
