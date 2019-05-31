@@ -29,7 +29,7 @@
 
 ![](assets/img/intro_chart.png)
 
-------?image=assets/img/trans_api.png&size=50% 100%
+------?image=assets/img/trans_api.png&size=80% 70%
 #### A Sneak Peak of Language Detection/Translation API
 
 
