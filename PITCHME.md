@@ -308,6 +308,6 @@ plt.show()
  ```
 ---?image=assets/img/google_api.png
 
- 
+---?gist=yanggicane/e49054544c9ab2c1d430c772f2f71f0d&lang=python&title=LDA IN PYTHON
  
 
