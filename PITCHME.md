@@ -201,5 +201,4 @@ plt.show()
 ```
 ---
 #### Charting word frequency
-@snap[south-west span-90]
 ![fragment](assets/img/wordfreq.png)
