@@ -35,7 +35,7 @@
 #### A Sneak Peak of Natual Language API
 ---?image=assets/img/sentiment.png&size=50% 80%
 #### A Sneak Peak of Natual Language API
----?image=assets/img/catgories.png
+---?image=assets/img/catgories.png&size=80% 30%
 #### A Sneak Peak of Natual Language API
 ---
 #### Introduction to regular expressions in Python
