@@ -153,5 +153,5 @@ Common Regex patterns
   - am, are, is $\rightarrow$ be
   - car, cars, car's cars' $\rightarrow$ car
 
----?gist=yanggicane/f71fd0b31e91ce624deb44611719b9f1&lang=python&title=Textcode
-
+---?gist=yanggicane/f71fd0b31e91ce624deb44611719b9f1&lang=python
+#### Code
