@@ -186,6 +186,6 @@ from matplotlib import pyplot as plt
 plt.hist([1,5,5,7,7,7,9])
 plt.show()
 ```
-![](assets/img/hist_eg.png)
+![fragment](assets/img/hist_eg.png)
 
 
