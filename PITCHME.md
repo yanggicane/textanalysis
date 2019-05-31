@@ -153,5 +153,11 @@ Common Regex patterns
   - am, are, is $\rightarrow$ be
   - car, cars, car's cars' $\rightarrow$ car
 
----?gist=yanggicane/f71fd0b31e91ce624deb44611719b9f1&lang=python
-#### Code
+---?gist=yanggicane/f71fd0b31e91ce624deb44611719b9f1&lang=python&title=CODE
+@[1](Import the function to perform word tokenization.)
+@[2-49](Return a list of words from the sample text input.)
+@[51-52](Define a set of stopwords.)
+@[54-83]()
+@[85-86]()
+@[88-116](Story$\rightarrow$ stori.)
+
