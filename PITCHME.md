@@ -19,7 +19,8 @@
   - Sentiment analysis
   - Topic identification
   - Document summarization
- - Essentially, we would like to turn text into data for analysis via natural language processing (NLP) and analytical methods.
+  
+- Essentially, we would like to turn text into data for analysis via natural language processing (NLP) and analytical methods.
 
 @ulend
 
