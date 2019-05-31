@@ -31,9 +31,7 @@
 
 ---?image=assets/img/trans_api.png&size=80% 70%
 #### A Sneak Peak of Language Detection/Translation API
-
-
----
+---?image=assets/img/entities.png&size=80% 70%
 #### A Sneak Peak of Natual Language API
 
 ---
