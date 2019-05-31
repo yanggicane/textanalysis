@@ -320,10 +320,10 @@ plt.show()
   - Classifying Content
 
 - We have seen entity analysis in the beginning of the session using their web interface. 
-- Now, I will show you how to call this API from Python. 
+- Now, I will show you how to call this API from Python for sentiment analysis. 
   @ulend
   
----?gist=yanggicane/e49054544c9ab2c1d430c772f2f71f0d&lang=python&title=LDA IN PYTHON
+---?gist=yanggicane/e49054544c9ab2c1d430c772f2f71f0d&lang=python&title=NATURAL LANGUAGE API IN PYTHON:SENTIMENT
 @[1-4]()
 @[6-7]()
 @[9-13]()
@@ -335,3 +335,14 @@ plt.show()
 @[54]()
 @[55-65]()
 
+---?gist=yanggicane/df4ccd5d36949f4fbcac0a738f1d9a06&lang=python&title=NATURAL LANGUAGE API IN PYTHON:CLASSIFICATION
+@[1-4]()
+@[6-7]()
+@[9-13]()
+@[15-16]()
+@[18-19]()
+@[20-21]()
+@[24-35]()
+@[38-52]()
+@[54]()
+@[55-65]()
