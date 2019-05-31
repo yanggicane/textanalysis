@@ -126,11 +126,14 @@ Common Regex patterns
 ![span-120](assets/img/movie_data.png)
 
 ---?gist=yanggicane/6e8eca98efc75b2ab6902f573dbe97f4
-@[1-4](Let's use one of the movie synopsis as a example for pre-processing.)
-@[6-8](Switch to lower case.)
-@[10-12](Remove numbers.)
-@[14-16](Load standard punctuations.)
-@[18-22](Remove punctuations.)
+@[1-3](Let's import the movie information from the csv.)
+@[5](We will only use the movie discription here.)
+@[7](We then delete missing synopsis.)
+@[9-12](Let's use one of the movie synopsis as a example for pre-processing.)
+@[14-16](Switch to lower case.)
+@[18-20](Remove numbers.)
+@[22-24](Load standard punctuations.)
+@[26-30](Remove punctuations.)
 
 --- 
 
